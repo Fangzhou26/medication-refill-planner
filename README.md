@@ -1,10 +1,16 @@
-# smarterMed · 药程
+# Medication Refill Planner · 药程
 
-一个面向长期用药库存与取药日程场景的响应式前端原型。当前版本重点展示移动端优先的信息架构、库存覆盖可视化、风险提示和透明的演示数据边界。
+**Medication Refill Planner (药程)** is a mobile-first front-end prototype for medication inventory and refill scheduling.
 
 > **项目状态：开发中（进行中的前端原型，尚未达到可供真实用药管理使用的状态）。**
 
 > **安全与范围说明：**本项目仅为交互原型，不提供诊断、处方、剂量建议或真实医疗决策支持。页面中的药品名称、规格、数量和日期均为虚构演示数据。当前没有后端或本地持久化；刷新后，页面会恢复初始样例状态。请勿输入或提交真实患者信息。
+
+## Demo
+
+**Live demo:** [Medication Refill Planner](https://fangzhou26.github.io/medication-refill-planner/)
+
+The demo uses fictional sample data only. It demonstrates the responsive dashboard, refill timeline, inventory coverage, and medication-detail interactions. It is not a medication recommendation or tracking service.
 
 ## 当前实现
 
